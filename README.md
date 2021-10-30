@@ -1,4 +1,4 @@
-### Olá, Mundo!!!👋 Sou a Cris Flores🌺🌷 
+### Olá!!👋 Eu a Cris Flores🌺🌷 
 - 🎨 Designer de estampas freelancer
 - 🧑‍💻 Desenvolvedora WordPress
 - 🤓 Estudando HTML, Css, JS, Sass e Bootstrap 
