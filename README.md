@@ -1,5 +1,5 @@
 ### Olá, Mundo!!!👋 Eu sou Cris Flores🌺🌷 <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
-
+##
 - 🎨 Designer de estampas freelancer
 - 🧑‍💻 Desenvolvedora WordPress
 - 🤓 Estudando HTML, CSS, JS, SASS e BOOTSTRAP 
@@ -13,7 +13,7 @@
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianeFlores&hide=html&layout=compact&theme=react" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianeFlores&theme=react"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianeFlores&theme=react" /></td>
     </tr>   
   </table> 
 </center>  
