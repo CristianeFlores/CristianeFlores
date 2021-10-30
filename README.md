@@ -1,21 +1,27 @@
-### Olá, Mundo!!!👋 
-
-<img align="center" alt="Cris-pic" height="250" style="" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+### Olá, Mundo!!!👋 Eu sou Cris Flores🌺🌷
 
 - 🎨 Designer de estampas freelancer
 - 🧑‍💻 Desenvolvedora WordPress
-- 🤓 Estudando HTML, CSS, JS, SASS e BOOTSTRAP
-
-
+- 🤓 Estudando HTML, CSS, JS, SASS e BOOTSTRAP 
  
 ##
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianeFlores&hide=html&layout=compact&theme=react" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=CristianeFlores&theme=react"/></td>
+    </tr>   
+  </table>
+ <img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" />
+</center>  
  
-<div align="height">
+<!-- <div align="height">
   <a href="https://github.com/CristianeFlores">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianeFlores&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianeFlores&layout=compact&langs_count=7&theme=react"/>
   
-</div>
+</div> -->
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
