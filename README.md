@@ -1,10 +1,9 @@
-### Olá, Mundo! Eu sou a Cristiane Flores🌺🌷👋
+### Olá, Mundo! Eu sou a Cris Flores👋
+<br>
 
-
-
-- 🎨 Sou web design e ilustradora freelancer
+<!-- - 🎨 Sou web design e ilustradora freelancer
 - 🤓 Estudando Html, Css, Js, Scss e Bootstrap
-- ⚡ Um fato: Sou uma pessoa simples mas com gostos complexos
+- ⚡ Um fato: Sou uma pessoa simples mas com gostos complexos -->
 
 <div align="heigth">
   <a href="https://github.com/CristianeFlores">
@@ -19,9 +18,10 @@
   <img align="center" alt="Cris-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
  
 <!--   <img align="right" alt="Cris-pic" height="150" style="border-radius:50px;" src=""> -->
-</div> 
+</div>
   
-  ##  
+  ## 
+  
 ![Snake animation](https://github.com/CristianeFlores/CristianeFlores/blob/output/github-contribution-grid-snake.svg)
  
 </div>
