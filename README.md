@@ -4,7 +4,7 @@
 - 🎨 Sou web design e ilustradora freelancer
 
  ##
-<div align="center">
+<div align="height">
   <a href="https://github.com/CristianeFlores">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianeFlores&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianeFlores&layout=compact&langs_count=7&theme=react"/>
