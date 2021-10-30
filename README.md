@@ -1,7 +1,7 @@
 ### Olá, Mundo! Eu sou a Cris Flores👋
 
 
-- 🎨 Sou web design e ilustradora freelancer
+<!-- - 🎨 Sou web design e ilustradora freelancer -->
 
  ##
 <div align="height">
