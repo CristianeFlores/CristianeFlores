@@ -2,7 +2,7 @@
 
 - 🎨 Designer de estampas freelancer
 - 🧑‍💻 Desenvolvedora WordPress
-- 🤓 Estudando HTML, CSS, JS e SASS
+- 🤓 Estudando HTML, CSS, JS, SASS e BOOTSTRAP
 ##
  
 <div align="height">
