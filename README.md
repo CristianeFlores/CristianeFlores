@@ -1,8 +1,12 @@
 ### Olá, Mundo!!!👋 
 
+<img align="center" alt="Cris-pic" height="250" style="" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+
 - 🎨 Designer de estampas freelancer
 - 🧑‍💻 Desenvolvedora WordPress
 - 🤓 Estudando HTML, CSS, JS, SASS e BOOTSTRAP
+
+
  
 ##
  
@@ -10,7 +14,7 @@
   <a href="https://github.com/CristianeFlores">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CristianeFlores&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianeFlores&layout=compact&langs_count=7&theme=react"/>
-   <img align="right" alt="Cris-pic" height="250" style="border-radius:50px;" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+  
 </div>
   
   <div style="display: inline_block"><br>
